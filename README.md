@@ -1,7 +1,7 @@
 
 ---
 
-# 2) README.md for Python repo
+# README.md for Python repo
 
 ## `README.md`
 
